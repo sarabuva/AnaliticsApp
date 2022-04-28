@@ -5,6 +5,13 @@ VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashBoard", "DashBoard\DashBoard.csproj", "{69DCF534-6E06-48C1-BA8C-E612E36DA064}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{83B1B17A-A01F-4434-B693-A6D32C7D83B4}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{5D5D1332-68CA-4B43-90E3-9B08AF49D5DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{69DCF534-6E06-48C1-BA8C-E612E36DA064}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69DCF534-6E06-48C1-BA8C-E612E36DA064}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69DCF534-6E06-48C1-BA8C-E612E36DA064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D5D1332-68CA-4B43-90E3-9B08AF49D5DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5D1332-68CA-4B43-90E3-9B08AF49D5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5D1332-68CA-4B43-90E3-9B08AF49D5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5D1332-68CA-4B43-90E3-9B08AF49D5DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
