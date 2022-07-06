@@ -25,3 +25,5 @@ C:\Users\srisarath\source\repos\AnaliticsApp\DashBoard\DashBoard\obj\Debug\net6.
 C:\Users\srisarath\source\repos\AnaliticsApp\DashBoard\DashBoard\obj\Debug\net6.0\DashBoard.pdb
 C:\Users\srisarath\source\repos\AnaliticsApp\DashBoard\DashBoard\obj\Debug\net6.0\DashBoard.genruntimeconfig.cache
 C:\Users\srisarath\source\repos\AnaliticsApp\DashBoard\DashBoard\obj\Debug\net6.0\ref\DashBoard.dll
+C:\Users\srisarath\source\repos\AnaliticsApp\DashBoard\DashBoard\bin\Debug\net6.0\Utilities.dll
+C:\Users\srisarath\source\repos\AnaliticsApp\DashBoard\DashBoard\bin\Debug\net6.0\Utilities.pdb

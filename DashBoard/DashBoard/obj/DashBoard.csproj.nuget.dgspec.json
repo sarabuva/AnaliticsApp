@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\DashBoard\\DashBoard\\DashBoard.csproj": {}
+    "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\Dashboard\\DashBoard\\DashBoard.csproj": {}
   },
   "projects": {
-    "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\DashBoard\\DashBoard\\DashBoard.csproj": {
+    "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\Dashboard\\DashBoard\\DashBoard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\DashBoard\\DashBoard\\DashBoard.csproj",
+        "projectUniqueName": "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\Dashboard\\DashBoard\\DashBoard.csproj",
         "projectName": "DashBoard",
-        "projectPath": "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\DashBoard\\DashBoard\\DashBoard.csproj",
+        "projectPath": "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\Dashboard\\DashBoard\\DashBoard.csproj",
         "packagesPath": "C:\\Users\\srisarath\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\DashBoard\\DashBoard\\obj\\",
+        "outputPath": "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\Dashboard\\DashBoard\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\DashBoard\\Utilities\\Utilities.csproj": {
-                "projectPath": "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\DashBoard\\Utilities\\Utilities.csproj"
+              "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\Dashboard\\Utilities\\Utilities.csproj": {
+                "projectPath": "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\Dashboard\\Utilities\\Utilities.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\DashBoard\\Utilities\\Utilities.csproj": {
+    "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\Dashboard\\Utilities\\Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\DashBoard\\Utilities\\Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\Dashboard\\Utilities\\Utilities.csproj",
         "projectName": "Utilities",
-        "projectPath": "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\DashBoard\\Utilities\\Utilities.csproj",
+        "projectPath": "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\Dashboard\\Utilities\\Utilities.csproj",
         "packagesPath": "C:\\Users\\srisarath\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\DashBoard\\Utilities\\obj\\",
+        "outputPath": "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\Dashboard\\Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

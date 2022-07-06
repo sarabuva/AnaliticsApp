@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QuTEyXv4J5pXLiu5E7HRSKQQfDQF8dPVvNSc+hx5rPV0i9ibvdA1/iDO9rPcNLMk/iA8Jf7hfNk9eqbAL0kJyg==",
+  "dgSpecHash": "M6U/YumbSRqq7JNg/kXEXdDg0o87ITj+baQfl4kO49R79SjVVACtzR2znQgnCT0lzzCscISTO/lQ2hg1t7tmBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\DashBoard\\Utilities\\Utilities.csproj",
+  "projectFilePath": "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\Dashboard\\Utilities\\Utilities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

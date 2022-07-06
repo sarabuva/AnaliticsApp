@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zW88k2sHhbp6WBi+BwRv4M4/9EUGVbpmYRbhJu1iiYI0bpEZ+AneQ1Ig/8KJ4oX3BA5xLSlcDBzm7V3ljyYMtQ==",
+  "dgSpecHash": "ZkEVlZWJe1lyA4RQRsaWgpVJhyoxFlwJRqFcYOOGApDVdn+1k0Mei/A548Xp7UX6B39QSruS6XGJE18Iq4GQlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\DashBoard\\DashBoard\\DashBoard.csproj",
+  "projectFilePath": "C:\\Users\\srisarath\\source\\repos\\AnaliticsApp\\Dashboard\\DashBoard\\DashBoard.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\srisarath\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\srisarath\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
